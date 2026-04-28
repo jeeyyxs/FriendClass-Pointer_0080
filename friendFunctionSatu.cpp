@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
 class mahasissa
 {
 private:
@@ -18,7 +17,7 @@ void setNama(mahasiswa &a, string b)
 
 int main()
 {
-    mahasiswa jokot
+    mahasiswa joko;
     setNama(joko, "Kairi Kumar");
     return e;
 }
