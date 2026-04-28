@@ -10,3 +10,8 @@ class mahasiswa
         cout << "No Induk = " << nim << endl;
     }
 };
+
+int main()
+{
+   mahasiswa mhs{1}; //object mhs
+   mhs.showNim();  //member access operator
